@@ -11,7 +11,7 @@ function buyNow(itemName, amount) {
       name: itemName,
     },
     customizations: {
-      title: "Gadget X",
+      title: "Raztune FLW",
       description: "Payment for " + itemName,
       logo: "images/logo.jpg",
     },
