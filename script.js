@@ -1,7 +1,7 @@
 function buyNow(itemName, amount) {
   FlutterwaveCheckout({
     public_key: "FLWPUBK-2b01ca9653cbf025d8843ce27e456c4b-X",
-    tx_ref: "GadgetX_" + Date.now(),
+    tx_ref: "RaztuneFLW_" + Date.now(),
     amount: amount,
     currency: "NGN",
     payment_options: "card,banktransfer,ussd",
