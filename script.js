@@ -13,10 +13,10 @@ function buyNow(itemName, amount) {
     customizations: {
       title: "Gadget X",
       description: "Payment for " + itemName,
-      logo: "images/logo.png", // optional logo if you have one
+      logo: "images/logo.jpg",
     },
     callback: function (data) {
-      // After successful payment, redirect to your form
+      // Redirect after payment success
       window.location.href = "https://form.svhrt.com/68ee7fa9c526e9f3b64609a9";
     },
     onclose: function () {
