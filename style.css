@@ -109,5 +109,10 @@ footer {
   .product-card img {
     height: 250px;
   }
+
+  .about-section p {
+    font-size: 20px;
+    line-height: 1.8;
+  }
 }
 ```
