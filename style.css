@@ -44,7 +44,7 @@ nav a:hover {
 
 .product-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(300px, 2fr));
   gap: 25px;
 }
 
@@ -62,8 +62,8 @@ nav a:hover {
 }
 
 .product-card img {
-  width: 90%;
-  height: 250px;
+  width: 100%;
+  height: 300px;
   object-fit: cover;
 }
 
@@ -106,7 +106,7 @@ footer {
   }
 
   .product-card img {
-    height: 150px;
+    height: 240px;
   }
 }
 ```
