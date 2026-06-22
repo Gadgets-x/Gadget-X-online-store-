@@ -100,13 +100,13 @@ footer {
   margin-top: 50px;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 600px) {
   .product-section {
-    padding: 20px;
+    padding: 15px;
   }
 
   .product-card img {
-    height: 240px;
+    height: 200px;
   }
 }
 ```
