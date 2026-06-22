@@ -102,7 +102,7 @@ footer {
 
 @media (max-width: 300px) {
   .product-section {
-    padding: 20px;
+    padding: 10px;
   }
 
   .product-card img {
