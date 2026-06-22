@@ -62,7 +62,7 @@ nav a:hover {
 }
 
 .product-card img {
-  width: 100%;
+  width: 70%;
   height: 500px;
   object-fit: cover;
 }
