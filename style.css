@@ -64,7 +64,7 @@ nav a:hover {
 .product-card img {
   width: 100%;
   border-radius: 1px
-  height: 280px;
+  height: 240px;
   object-fit: cover;
 }
 
