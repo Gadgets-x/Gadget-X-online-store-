@@ -100,7 +100,7 @@ footer {
   margin-top: 50px;
 }
 
-@media (max-width: 300px) {
+@media (max-width: 100px) {
   .product-section {
     padding: 10px;
   }
